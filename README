@@ -1,0 +1,1 @@
+Start with 'sbt run [port]' and set the host running this application as a post-receive-hook in the admin panel in any github repository.
